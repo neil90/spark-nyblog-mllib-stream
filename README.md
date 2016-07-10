@@ -1,4 +1,4 @@
-#Spark Streaming Mllib/Stream Example
+# Spark Streaming Mllib/Stream Example
 
 Purpose of this project to do the entire pipeline of loading/modeling data and applying it to streaming data and storing it back into a database system.
 
